@@ -1,0 +1,15 @@
+{
+    "name": "jdac/cs-cart2woo-commerce",
+    "description": "PHP classes to query CSCart Categories and Product data and directly import to WooCommerce instance",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "jdacjohn",
+            "email": "john@jdacsolutions.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
